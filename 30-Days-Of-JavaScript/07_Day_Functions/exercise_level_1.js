@@ -101,5 +101,6 @@ function findMax(num1,num2,num3) {
         return num3
     }
 }
-console.log(findMax(232,34323,4212));
+console.log(findMax(0, 10, 5));
+console.log(findMax(0, -10, -2));
 
