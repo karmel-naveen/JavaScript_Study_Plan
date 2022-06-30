@@ -2011,3 +2011,4 @@ const countries = [
     currency: 'Botswana pula'
   }
 ]
+module.exports = {countries}
